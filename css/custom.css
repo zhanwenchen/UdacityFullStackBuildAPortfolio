@@ -1,0 +1,19 @@
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3 {
+    color:#2d3c49;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    /* Set the hr color */
+    color: #7d97ad; /* old IE */
+    background-color: #7d97ad; /* Modern Browsers */
+}
