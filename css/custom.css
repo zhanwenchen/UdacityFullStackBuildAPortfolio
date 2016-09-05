@@ -1,13 +1,16 @@
-h1, h2, h3 {
-    font-family: 'Open Sans', sans-serif;
-}
-
-h1, h3 {
+h1{
+    font-family: "Open Sans", sans-serif;
     color:#2d3c49;
+    font-size: 40px;
 }
 
-h1 {
-    font-size: 40px;
+h2{
+    font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+    font-family: "Open Sans", sans-serif;
+    color:#2d3c49;
 }
 
 hr {
@@ -16,4 +19,8 @@ hr {
     /* Set the hr color */
     color: #7d97ad; /* old IE */
     background-color: #7d97ad; /* Modern Browsers */
+}
+
+header img {
+    margin-top: 20px;
 }
